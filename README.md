@@ -1,28 +1,32 @@
-# Olym-Solid-Fluid-Matrix
-A deterministic mechanical framework for the Continuous Solid Fluid model, replacing abstract spacetime geometry.
-------
-### 📄 أوراق البحث الكاملة (روابط تحميل مباشرة):
-*   [تحميل: مصفوفة أوليم - الجزء الأول (الأساس الميكانيكي)](Olym_Matrix_v2%20(2).pdf)
-*   [تحميل: مصفوفة أوليم - الجزء الثاني (التنبؤات والشكليات)](%5Bمصفوفة%20أوليم%20...%5D%20-%20(الجزء%20الثاني-%20الشكلية%20الكمية%20والتنبؤات%20التجريبية)%20(4).pdf)
----
-### Core Physical Constants (The Olym Matrix):
-* **Cosmic Stiffness (G):** The mechanical rigidity of the continuous medium.
-* **Cosmic Viscosity (η):** The damping coefficient of the solid fluid.
-* **Present Event Pulse (V+):** The kinetic propagation of physical time.
-* **Porosity (P):** The ratio of available vibrational space within the matrix.
+# 🌌 The Olym Matrix: Al-Muntaha Framework
 
-### Key Resolution:
-The Olym Matrix resolves the **Null Energy Condition (NEC)** by utilizing localized mechanical resonance: 
-$$\Omega = V^+ / (C \cdot P)$$ 
-This approach allows for warp-like metrics using strictly positive energy states, replacing the need for non-physical exotic matter.
----
-### Mathematical Correlations (Quantitative Physics):
-The Olym Matrix redefines fundamental units through mechanical strain:
-* **Mass Derivation:** $m = \frac{k \cdot V^+}{G \cdot P}$ (where $k$ is the Olym constant).
-* **Geometric Resonance ($\Omega$):** $\Omega = \frac{V^+}{C \cdot P}$.
+![Status](https://img.shields.io/badge/Status-Under_Review_at_PRL-blue)
+![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19426946-green)
+![Physics](https://img.shields.io/badge/Physics-Warp_Drive_Mechanics-red)
 
-### Empirical Predictions & Applications:
-1. **Warp Drive Stability:** Achieving a stable "Warp Bubble" without negative energy by manipulating the local Porosity ($P$) of the CSF medium.
-2. **Hubble Tension Resolution:** Explaining the cosmic expansion rate as a variation in the Matrix Viscosity ($\eta$) over cosmological distances.
-3. **Quantum Gravity:** Mass is treated as a localized "congestion" ($C$) in the solid-fluid matrix, naturally unifying gravity with fluid dynamics.
-4. 
+A deterministic mechanical framework for the **Continuous Solid Fluid (CSF)** model, replacing abstract spacetime geometry with physical medium dynamics.
+
+---
+
+### 📥 Research Papers (Direct Access)
+*   **[Download Olym Matrix - Part I: Mechanical Foundations](Olym_Matrix_v2.pdf)** 
+*   **[Download Olym Matrix - Part II: Quantitative Formalism](pdf.(4).pdf)** 
+
+---
+
+### 🔬 Core Physical Constants
+*   **Cosmic Stiffness (G):** The mechanical rigidity of the continuous medium.
+*   **Cosmic Viscosity (η):** The damping coefficient of the solid fluid.
+*   **Present Event Pulse (V+):** The kinetic propagation of physical time.
+
+---
+
+### 🚀 Future Roadmap & Funding
+We are actively seeking **Sponsorships** and **Research Partnerships** for:
+1.  **Computational Modeling:** Digital simulation of warp bubble stability in CSF.
+2.  **Metric Verification:** Cross-referencing Olym equations with gravitational wave data.
+
+---
+
+### 📚 How to Cite
+Olym, A. (2026). *The Olym Matrix*. Zenodo. https://doi.org/10.5281/zenodo.19426946
