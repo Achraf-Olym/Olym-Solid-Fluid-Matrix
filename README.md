@@ -1,5 +1,9 @@
 # Olym-Solid-Fluid-Matrix
 A deterministic mechanical framework for the Continuous Solid Fluid model, replacing abstract spacetime geometry.
+------
+### 📄 أوراق البحث الكاملة (روابط تحميل مباشرة):
+*   [تحميل: مصفوفة أوليم - الجزء الأول (الأساس الميكانيكي)](Olym_Matrix_v2%20(2).pdf)
+*   [تحميل: مصفوفة أوليم - الجزء الثاني (التنبؤات والشكليات)](%5Bمصفوفة%20أوليم%20...%5D%20-%20(الجزء%20الثاني-%20الشكلية%20الكمية%20والتنبؤات%20التجريبية)%20(4).pdf)
 ---
 ### Core Physical Constants (The Olym Matrix):
 * **Cosmic Stiffness (G):** The mechanical rigidity of the continuous medium.
