@@ -1,0 +1,2 @@
+Unified Ontology of Matter: Material Monism
+Transitioning from classical dualism to 'Material Monism,' this document redefines matter not as a discrete body traversing a void, but as a 'Mechanical Soliton'—a localized state of the cosmic fluid stabilized through harmonic resonance. By demonstrating that matter and the vacuum constitute a single, integrated mechanical substrate, this work establishes the final mechanical justification for subluminal propulsion via 'State-Modulation'.
